@@ -13,13 +13,13 @@ package rabbitmq
 import (
 	"crypto/tls"
 	"fmt"
-	"github.com/stamhe-team/jewel/slicex"
+	"github.com/web3password/jewel/slicex"
 	"net/url"
 	"sync"
 	"time"
 
 	amqp "github.com/rabbitmq/amqp091-go"
-	"github.com/stamhe-team/jewel/tools"
+	"github.com/web3password/jewel/tools"
 	"golang.org/x/exp/slices"
 )
 

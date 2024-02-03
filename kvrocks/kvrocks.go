@@ -16,7 +16,7 @@ import (
 	"crypto/x509"
 	"fmt"
 	"github.com/go-redis/redis/v8"
-	"github.com/stamhe-team/jewel/tools"
+	"github.com/web3password/jewel/tools"
 	"os"
 )
 

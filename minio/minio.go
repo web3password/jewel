@@ -15,7 +15,7 @@ import (
 	"fmt"
 	"github.com/minio/minio-go/v7"
 	"github.com/minio/minio-go/v7/pkg/credentials"
-	"github.com/stamhe-team/jewel/tools"
+	"github.com/web3password/jewel/tools"
 	"golang.org/x/exp/rand"
 	"golang.org/x/net/context"
 	"io"

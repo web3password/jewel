@@ -14,7 +14,7 @@ import (
 	"flag"
 	"fmt"
 	"github.com/jaevor/go-nanoid"
-	"github.com/stamhe-team/jewel/kvrocks"
+	"github.com/web3password/jewel/kvrocks"
 	"log"
 	"strings"
 	"sync"
